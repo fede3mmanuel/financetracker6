@@ -5,20 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby: 2.6.3
 
-* System dependencies
+* node: 12.22.12
 
-* Configuration
+* Rails: 6.0.5
 
-* Database creation
+* yarn: 1.22.19
 
-* Database initialization
+* sqlite3: 3.31.1
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
