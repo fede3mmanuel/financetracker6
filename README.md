@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Following the course of: https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/
 
-Things you may want to cover:
+Requeriments:
 
 * Ruby: 2.6.3
 
